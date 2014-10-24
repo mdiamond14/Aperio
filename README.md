@@ -1,10 +1,9 @@
-Aperio
-=======
+<h1>_Aperio_</h1>
 
 Effortless Water Quality Monitor
 
 
-What is Aperio?
+<h2>_What is Aperio?_</h2>
 
 How much do you know about the water that comes through your faucet? The water that you drink, the water that you use to clean, the water that you wash yourself with. Chances are, very little. This lack of transparency is alarming. That's where Aperio comes in.
 
@@ -13,15 +12,16 @@ Aperio - latin for "to reveal" - is a Spark Core powered "smart" faucet which ac
 Eliminate uncertainty. Regain confidence in the water you consume, and take comfort in the fact that you know exactly what you are putting in your body.
 
 
-What can Aperio detect?
-
-    Salinity
-    pH
-    Turbidity
-    Conductivity
-    Heavy Metals
-    Dissolved Oxygen
-    Oxidation-Reduction Potential
+<h2>_What can Aperio detect?_</h2>
+<ul>
+    <li>Salinity</li>
+    <li>pH</li>
+    <li>Turbidity</li>
+    <li>Conductivity</li>
+    <li>Heavy Metals</li>
+    <li>Dissolved Oxygen</li>
+    <li>Oxidation-Reduction Potential</li>
+</ul>
 
 What can you do to help?
 
