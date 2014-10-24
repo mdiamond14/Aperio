@@ -1,7 +1,6 @@
-Salinity 							#easy and cheap to implement
-pH 									#easy to implement, on the expensive side, usefulness is questionable for tap water.
-Turbidity 							#easy and cheap to implement, not all that useful.
-Conductivity 						#difficult and expensive to implement, can be replaced by orp.
-Heavy Metals 						#difficult and expensive to implement, can be replaced by orp.
-Dissolved Oxygen 					#not as difficult to implement, expensive, not all that useful for residential applications.
-Oxidation-Reduction Potential 		#easy to implement, expensive, but can be very useful for determining water quality.
+pH 								              	#moderatly difficult to implement, on the expensive side, usefulness is questionable for tap water.
+Turbidity 					          		#easy and cheap to implement, not all that useful except in areas susceptible to turbid water (Not NYC).
+Conductivity/Salinity 						#easy and cheap to implement, can be replaced by orp.
+Heavy Metals 					          	#difficult and expensive to implement, some functionality can be replaced by orp.
+Dissolved Oxygen 				        	#moderatly difficult to implement, very expensive, not all that useful for residential applications.
+Oxidation-Reduction Potential 		#moderatly difficult to implement, expensive, but can be very useful for determining water quality.
