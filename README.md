@@ -27,20 +27,21 @@ Where to buy
 <li>http://www.vernier.com/products/sensors/ #specialized classroom sensors</li>
 <li>http://www.adafruit.com/category/35 #general arduino sensors</li>
 <li>https://www.atlas-scientific.com/probes.html? #specialized arduino probes</li>
+<li>http://www.adafruit.com/product/828 flow sensor
 </ul>
 Potential Sensors
 <ul>
-<li>Salinity 							#easy and cheap to implement</li>
-<li>pH 									#easy to implement, on the expensive side, usefulness is questionable for tap water.</li>
-<li>Turbidity 							#easy and cheap to implement, not all that useful.</li>
-<li>Conductivity 						#difficult and expensive to implement, can be replaced by orp.</li>
-<li>Heavy Metals 						#difficult and expensive to implement, can be replaced by orp.</li>
-<li>Dissolved Oxygen 					#not as difficult to implement, expensive, not all that useful for residential applications.</li>
-<li>Oxidation-Reduction Potential 		#easy to implement, expensive, but can be very useful for determining water quality.</li>
+<li>Salinity- 							#easy and cheap to implement</li>
+<li>pH- 									#easy to implement, on the expensive side, usefulness is questionable for tap water.</li>
+<li>Turbidity- 							#easy and cheap to implement, not all that useful.</li>
+<li>Conductivity- 						#difficult and expensive to implement, can be replaced by orp.</li>
+<li>Heavy Metals- 						#difficult and expensive to implement, can be replaced by orp.</li>
+<li>Dissolved Oxygen- 					#not as difficult to implement, expensive, not all that useful for residential applications.</li>
+<li>Oxidation-Reduction Potential- 		#easy to implement, expensive, but can be very useful for determining water quality.</li>
 </ul>
 
 <h2>Construction</h2>
-</p>Full faucet to incorporate sensors easily. Water flows into sensor chamber before valve, where sensors detect quality and send data to Spark Core. Flow meter detects power-on parameters. Flow based generator could also be potentially included. First prototype made with PVC. Second will probably incorporate 3D printing and CAD.</p>
+<p>Full faucet to incorporate sensors easily. Water flows into sensor chamber before valve, where sensors detect quality and send data to Spark Core. Flow meter detects power-on parameters. Flow based generator could also be potentially included. First prototype made with PVC. Second will probably incorporate 3D printing and CAD.</p>
 <h2>Marketing</h2>
 <p>Spread website and facebook page to other students and schools via social networks. Create mailing list to obtain real data and gain feedback.</p>
 <h2>Design Goals</h2>
