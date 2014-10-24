@@ -1,0 +1,3 @@
+http://www.vernier.com/products/sensors/ #specialized classroom sensors
+http://www.adafruit.com/category/35 #general arduino sensors
+https://www.atlas-scientific.com/probes.html? #specialized arduino probes
