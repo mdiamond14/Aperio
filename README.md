@@ -1,4 +1,4 @@
-<h1><i><a href="http://goo.gl/TDbZAM">Aperio</a></i></h1>
+<h1><a href="http://goo.gl/TDbZAM">Aperio</a></h1>
 
 Effortless Water Quality Monitor
 
