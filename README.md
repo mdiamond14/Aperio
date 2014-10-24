@@ -1,6 +1,6 @@
 <h1><a href="http://goo.gl/TDbZAM">Aperio</a></h1>
 
-Effortless Water Quality Monitor
+<h3>Effortless Water Quality Monitor</h3>
 
 
 <h2><i>What is Aperio?</i></h2>
