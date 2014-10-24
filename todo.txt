@@ -5,4 +5,4 @@ Sensors -3						#Decision matrix for which sensors to use
 Website -2						#Flesh out website, get domain, advertise
 Finish first prototype -2				#Get Sparkcore online and basic sensors working
 Create more resolving view of target audience -3	#Need to have firmer grasp of target audience, and modify device to fit it
-Complete second prototype -4				#Build nicer looking prototype. 3D printing, better sensors (call companies)
+Complete second prototype -4				#Build nicer looking prototype with smaller form factor. 3D printing/CNC, better sensors (call companies)
