@@ -1,9 +1,9 @@
-<h1>_Aperio_</h1>
+<h1><i><a href="http://goo.gl/TDbZAM">Aperio</a></i></h1>
 
 Effortless Water Quality Monitor
 
 
-<h2>_What is Aperio?_</h2>
+<h2><i>What is Aperio?</i></h2>
 
 How much do you know about the water that comes through your faucet? The water that you drink, the water that you use to clean, the water that you wash yourself with. Chances are, very little. This lack of transparency is alarming. That's where Aperio comes in.
 
@@ -12,7 +12,7 @@ Aperio - latin for "to reveal" - is a Spark Core powered "smart" faucet which ac
 Eliminate uncertainty. Regain confidence in the water you consume, and take comfort in the fact that you know exactly what you are putting in your body.
 
 
-<h2>_What can Aperio detect?_</h2>
+<h2><i>What can Aperio detect?</i></h2>
 <ul>
     <li>Salinity</li>
     <li>pH</li>
@@ -23,9 +23,10 @@ Eliminate uncertainty. Regain confidence in the water you consume, and take comf
     <li>Oxidation-Reduction Potential</li>
 </ul>
 
-What can you do to help?
+<h2><i>What can you do to help?</i></h2>
 
-Fill out the following form with your feedback!	
+<a href = "https://docs.google.com/forms/d/1HeRHL_nfaWCiucivamLQRrQ1IytfewS_WrG4w0mw35Q/viewform?c=0&w=1">Fill out the following form with your feedback</a>	
+<a href = "http://goo.gl/forms/wLT95YV6HY">Join our mailing list</a>
 
 Contact Us:
 
