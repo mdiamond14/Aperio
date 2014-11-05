@@ -23,7 +23,7 @@ body{
 	padding:0;
 	background-color: rgba(255, 255, 255, 0.8);
 	position: relative;
-	top: 150px;
+	top: 50px;
 
 }
 
@@ -41,7 +41,7 @@ body{
 .header h2{
 	position:relative;
 	bottom:30px;
-	font-family: "open sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-style: italic;
 	font-size: 50px;
@@ -51,6 +51,56 @@ body{
 	margin: 0;
 }
 
+.betaform{
+	position:relative;
+	top: 80px;
+	margin: 0 auto;
+	text-align: center;
+	width: 340px;
+}
+
+.betaform form{
+	margin: 0 auto;
+	padding: 1px 0;
+	background-color: rgba(182, 210, 236, 0.3);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.betaform form input{
+	margin: 0 0 6px;
+	width: 300px;
+	height: 28px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 12px;
+	padding: 0 4px;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+}
+
+#ss-submit{
+	width: 150px;
+	margin: 8px 0 0;
+	padding: 0;
+	font-family: 'Open Sans', Serif;
+	font-weight: 400;
+	font-size: 16px;
+	height: 28px;
+	text-transform: uppercase;
+	color: #073763;
+	border: 1px solid #073763;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+#ss-submit:hover{
+	background-color: rgba(255, 255, 255, 1);
+	color: #3d85c6;
+	border: 1px solid #3d85c6;
+}
+
 .navbar{
 	position: relative;
 	list-style-type: none;
@@ -58,7 +108,7 @@ body{
 	padding: 0;
     width: 960px;
    	text-align: center;
-	top: 200px;
+	top: 120px;
 	border: none;
    	background-color: rgba(255, 255, 255, 1);
    	z-index: 1;
@@ -117,7 +167,7 @@ body{
 	position: relative;
 	margin: 0 auto;
 	padding: 0;
-	top: 168px;
+	top: 88px;
 	background-color: rgba(255, 255, 255, .5);
     width: 100%;
 
@@ -194,12 +244,3 @@ body{
 	padding: 0 4px;
 }
 
-#ss-submit{
-	width: 416px;
-	margin: 40px 0 0;
-	padding: 0;
-	font-family: 'Roboto Slab', Serif;
-	font-weight: 400;
-	font-size: 24px;
-	height: 60px;
-}
