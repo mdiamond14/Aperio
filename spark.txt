@@ -1,0 +1,3 @@
+Spark ID: 53ff6d066667574813232067
+
+"https://api.spark.io/v1/devices/53ff6d066667574813232067/result?access_token=d4ebba5dda1da25a434b9eef8ff49ebe1fbb8907"
