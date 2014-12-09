@@ -1,3 +1,5 @@
+https://www.kickstarter.com/projects/545246334/844326656/edit
+
 <h1><a href="http://goo.gl/TDbZAM">Aperio, an effortless water quality monitor</a></h1>
 
 
