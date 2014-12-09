@@ -1,0 +1,29 @@
+int led = 0;    
+int LDR = A0;
+int brightness = 0;    
+int fadeAmount = 15;  
+char resultstr[64];
+ 
+void setup() {
+    pinMode(LDR, INPUT);
+    pinMode(led, OUTPUT);
+    Serial.begin(9600);
+    Spark.variable("result", &resultstr, STRING); 
+}
+
+
+void loop() {
+    analogWrite(led, brightness);    
+    brightness = brightness + fadeAmount;
+    if (brightness == 0 || brightness == 255) {
+        fadeAmount = -1 * fadeAmount ;
+    }    
+    
+    int turbidity = analogRead(A0);
+    
+    Serial.println(turbidity);
+    sprintf(resultstr, "{\"turbidity\":%d}", turbidity); 
+    
+    delay (100);	
+ 
+}    
