@@ -1,11 +1,10 @@
 body{
 	margin:0;
 	padding:0;
-	background-image: url("background.png");
+	background-image: url("mountain.jpg");
 	background-attachment: fixed;
-	background-position: center center;
 	background-repeat: no-repeat;
-	background-color: #e0eaf3;
+	background-size: cover;
 }
 
 .container{
@@ -56,20 +55,22 @@ body{
 	top: 80px;
 	margin: 0 auto;
 	text-align: center;
-	width: 340px;
+	width: 960px;
 }
 
 .betaform form{
 	margin: 0 auto;
 	padding: 1px 0;
 	background-color: rgba(182, 210, 236, 0.3);
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border: 2px solid #FFFFFF;
+	width: 320px;
 }
 .betaform form input{
 	margin: 0 0 6px;
-	width: 300px;
+	width: 270px;
 	height: 28px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -86,9 +87,9 @@ body{
 	margin: 8px 0 0;
 	padding: 0;
 	font-family: 'Open Sans', Serif;
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 16px;
-	height: 28px;
+	height: 32px;
 	text-transform: uppercase;
 	color: #073763;
 	border: 1px solid #073763;
@@ -156,7 +157,7 @@ body{
 }
 .social ul li a{
 	font-size: 60px;
-	color:#073763;
+	color: rgba(255, 255, 255, .7);
 }
 
 .social ul li a:hover{
@@ -168,9 +169,8 @@ body{
 	margin: 0 auto;
 	padding: 0;
 	top: 88px;
-	background-color: rgba(255, 255, 255, .5);
+	background-color: rgba(255, 255, 255, .7);
     width: 100%;
-
 }
 
 .panel h1{
@@ -220,7 +220,7 @@ body{
 	text-decoration: underline;;
 }
 .panel h3{
-	margin 0 40px;
+	margin: 0 40px;
 	font-size: 64px;
 }
 
@@ -244,3 +244,14 @@ body{
 	padding: 0 4px;
 }
 
+.monitor{
+	position: relative;
+	margin: 0 auto;
+	padding: 20px;
+    width: 600px;
+   	text-align: center;
+	top: 120px;
+	background-color:#FFFFFF;
+	border-radius: 10px;
+	border: 2px solid #073763;
+}
