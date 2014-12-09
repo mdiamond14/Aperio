@@ -1,4 +1,10 @@
-https://www.kickstarter.com/projects/545246334/844326656/edit
+Kickstarter- https://www.kickstarter.com/projects/545246334/844326656/edit
+
+Facebook- https://www.facebook.com/AperioFaucet
+
+Website- aperiofaucet.me
+
+Google Plus- https://plus.google.com/102941707271742679735/posts
 
 Fake Beta- http://goo.gl/forms/7ULkkr78pk
 
