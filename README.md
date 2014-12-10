@@ -49,6 +49,15 @@ Potential Sensors
 <h2>Construction</h2>
 <p>Full faucet to incorporate sensors easily. Water flows into sensor chamber before valve, where sensors detect quality and send data to Spark Core. Flow meter detects power-on parameters. Flow based generator could also be potentially included. First prototype made with PVC. Second will probably incorporate 3D printing and CAD.</p>
 <h2>Marketing</h2>
-<p>Spread website and facebook page to other students and schools via social networks. Create mailing list to obtain real data and gain feedback.</p>
+<p>After obtaining the results from our call for beta testers and analyzing the responses to our survey (the fake beta), we have concluded that
+there is a good general consensus that our product will be marketble. This can be seen from our large email list as well as from the fact that our survey results indicated 
+that our beta testers truly are worried about the contaminants in their water.
+
+Due to this, we will continue to advocate for our product through the aperio website, facebook, and google plus. We will also attempt to get in touch with trade shows
+and post extensively on blogs to get our name out there.
+
+Through the utilization of Kickstarter and networking through services such as Linkedin, we will raise money to initialize our second prototype/mass production phase. 
+
+Later, the distribution phase will be planned, but as of right now getting the product out there and raising money is the priority. </p>
 <h2>Design Goals</h2>
 <p>Minimize cost and maximise ease of use. No one will purchase if it is too much hassle/expense for too little gain. Choose which sensors are necessary and eliminate those that aren't to save real estate and reduce cost. We need to make a device that people will actually want to buy.</p>
