@@ -50,7 +50,7 @@ Potential Sensors
 <p>Full faucet to incorporate sensors easily. Water flows into sensor chamber before valve, where sensors detect quality and send data to Spark Core. Flow meter detects power-on parameters. Flow based generator could also be potentially included. First prototype made with PVC. Second will probably incorporate 3D printing and CAD.</p>
 <h2>Marketing</h2>
 <p>After obtaining the results from our call for beta testers and analyzing the responses to our survey (the fake beta), we have concluded that
-there is a good general consensus that our product will be marketble. This can be seen from our large email list as well as from the fact that our survey results indicated 
+there is a good general consensus that our product will be marketble. This can be seen from our large email list as well as from the fact that our survey results indicate 
 that our beta testers truly are worried about the contaminants in their water.
 
 Due to this, we will continue to advocate for our product through the aperio website, facebook, and google plus. We will also attempt to get in touch with trade shows
