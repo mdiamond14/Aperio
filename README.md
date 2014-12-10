@@ -2,6 +2,11 @@
 
 https://www.kickstarter.com/projects/545246334/844326656?token=9b80a16d
 
+https://www.facebook.com/AperioFaucet
+
+https://plus.google.com/102941707271742679735/posts
+
+
 <h2><i>What is Aperio?</i></h2>
 
 How much do you know about the water that comes through your faucet? The water that you drink, the water that you use to clean, the water that you wash yourself with. Chances are, very little. This lack of transparency is alarming. That's where Aperio comes in.
@@ -32,13 +37,13 @@ Where to buy
 </ul>
 Potential Sensors
 <ul>
-<li>Salinity- 							#easy and cheap to implement</li>
-<li>pH- 									#easy to implement, on the expensive side, usefulness is questionable for tap water.</li>
-<li>Turbidity- 							#easy and cheap to implement, not all that useful.</li>
-<li>Conductivity- 						#difficult and expensive to implement, can be replaced by orp.</li>
-<li>Heavy Metals- 						#difficult and expensive to implement, can be replaced by orp.</li>
-<li>Dissolved Oxygen- 					#not as difficult to implement, expensive, not all that useful for residential applications.</li>
-<li>Oxidation-Reduction Potential- 		#easy to implement, expensive, but can be very useful for determining water quality.</li>
+<li>Salinity- 							easy and cheap to implement</li>
+<li>pH- 									easy to implement, on the expensive side, usefulness is questionable for tap water.</li>
+<li>Turbidity- 							easy and cheap to implement, not all that useful.</li>
+<li>Conductivity- 						difficult and expensive to implement, can be replaced by orp.</li>
+<li>Heavy Metals- 						difficult and expensive to implement, can be replaced by orp.</li>
+<li>Dissolved Oxygen- 					not as difficult to implement, expensive, not all that useful for residential applications.</li>
+<li>Oxidation-Reduction Potential- 		easy to implement, expensive, but can be very useful for determining water quality.</li>
 </ul>
 
 <h2>Construction</h2>
