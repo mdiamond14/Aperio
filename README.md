@@ -1,5 +1,9 @@
 <h1><a href="www.aperiofaucet.net">Aperio, an effortless water quality monitor</a></h1>
 
+Survey- https://docs.google.com/forms/d/1bu4aKSEeHWmIrFf-Z65YH9c0vk1O8weD6l1mEfvcaDo/viewform?c=0&w=1
+
+Survey Responses- https://docs.google.com/spreadsheets/d/1pLBosk78gql883Fm7eWnhymY8N-whglf8S5V-dkugWc/edit?usp=sharing
+
 https://www.kickstarter.com/projects/545246334/844326656?token=9b80a16d
 
 https://www.facebook.com/AperioFaucet
