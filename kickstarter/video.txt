@@ -1,0 +1,18 @@
+Beginning- Someone goes up to the sink pours out water drinks it then clutches his chest and dies
+Turns gray- and someone says "=Do you know what's in your water? With Aperio, this wouldn't have happened
+
+Hi my name is Max Diamond, he is Yash Sharma, he is Kevin Sheng, and he is Armaan Thapar and we are engineers at the Cooper Union and this is Aperio, a smart water faucet that 
+makes sure your water is safe. As a collective unit, we've always had a passion for using our engineering skill to help others. We've been following recent events and there
+have been many alarming incidents that have happened all over the world, even close to home, which highlights the need for effective water quality monitoring. So we went ahead
+and developed a product that would do just that
+
+Show Aperio device- 
+Aperio is a standard water faucet with a suite of the latest high-end sensors that monitors the quality of your water that flows through your faucet. Aperio lets you
+know about the quality of water through text, a smartphone application, or a read out on the advice. Aperio checks for heavy metals and pathogen contents but also for
+Oxidation-Reduction Potential allowing for the device to give you our very own "purity score" through passing our sensing data through a well-tested algorithm. In addition, 
+when your "purity score" reaches dangerous levels, Aperio will automatically alert you through one or more of the notification options of your choice. 
+
+As we recognize that many households already have a faucet that they're already content with, we developed the Aperio micro to fit your needs. The micro has all of the sensing
+capabilities of the Aperio faucet, and is simply attached to your existing faucet. 
+
+  
