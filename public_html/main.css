@@ -244,6 +244,11 @@ body{
 	padding: 0 4px;
 }
 
+.panel a{
+	margin: 0;
+	padding: 0;
+}
+
 .monitor{
 	position: relative;
 	margin: 0 auto;
