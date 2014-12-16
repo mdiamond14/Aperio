@@ -1,18 +1,28 @@
-Beginning- Someone goes up to the sink pours out water drinks it then clutches his chest and dies
-Turns gray- and someone says "=Do you know what's in your water? With Aperio, this wouldn't have happened
+/*Beginning- Someone goes up to the sink pours out water drinks it then clutches his chest and dies
+Turns gray- and someone says "=Do you know what's in your water? With Aperio, this wouldn't have happened */
 
-Hi my name is Max Diamond, he is Yash Sharma, he is Kevin Sheng, and he is Armaan Thapar and we are engineers at the Cooper Union and this is Aperio, a smart water faucet that 
-makes sure your water is safe. As a collective unit, we've always had a passion for using our engineering skill to help others. We've been following recent events and there
-have been many alarming incidents that have happened all over the world, even close to home, which highlights the need for effective water quality monitoring. So we went ahead
-and developed a product that would do just that
+The average human consumes four gallons of water every week. Clearly, water is vital to our health. However, we have no idea what is in the water we drink. One of the most frightening feelings we experience is uncertainty, and we wanted to get rid of that. 
+Actually filming us- 
+Hi my name is Max Diamond, and he is Yash Sharma and we are engineers at the Cooper Union. /*We've always had a passion for using our engineering skill to help others.*/ We've been following recent events and there
+have been many alarming incidents that have happened all over the world, even close to home, that highlight the need for effective water quality monitoring. So we went ahead
+and developed a product that would do just that. 
 
 Show Aperio device- 
-Aperio is a standard water faucet with a suite of the latest high-end sensors that monitors the quality of your water that flows through your faucet. Aperio lets you
-know about the quality of water through text, a smartphone application, or a read out on the advice. Aperio checks for heavy metals and pathogen contents but also for
-Oxidation-Reduction Potential allowing for the device to give you our very own "purity score" through passing our sensing data through a well-tested algorithm. In addition, 
-when your "purity score" reaches dangerous levels, Aperio will automatically alert you through one or more of the notification options of your choice. 
+We created Aperio, a water faucet with a suite of sensors that monitors the quality of your water as it flows through your faucet. Aperio uses several different measures to determine water quality, including acidity, clarity, contaminent concentration, 
+and even oxidation-reduction potential. By passing this data through a well-tested algorithm, Aperio can come up with a "purity score", an easily . When your "purity score" reaches dangerous levels, Aperio can automatically alert you from the device itself, or
+through SMS, app, or email. 
 
-As we recognize that many households already have a faucet that they're already content with, we developed the Aperio micro to fit your needs. The micro has all of the sensing
-capabilities of the Aperio faucet, and is simply attached to your existing faucet. 
+Since we realize that many households already have a faucet that they're already content with, we're also developing the Aperio Micro, which retains the sensing
+capabilities of the full Aperio faucet, is instead portable and attachable to any existing faucet. 
 
-  
+video of us working, pan shot of lab-
+
+When we developed our prototype, we reached out to many experts in the fields of sensing and hydraulics, such as Professor Joe Cataldo, the head of the Hydraulic Engineering Laboratory at the Cooper Union and Atlas Scientific to further refine the
+design of our project. We really believe in Aperio, and would like to bring it to production. 
+
+Someone talking- 
+
+This is where you come in. By funding the project, you can receive a number of rewards such as water bottle, customized product, and more
+These are essentially gifts for believing in our product. We want to grow Aperio into a mainstay of the market, and hope you can accompany us along the way
+
+Thanks a lot for watching, and consider supporting Aperio!
