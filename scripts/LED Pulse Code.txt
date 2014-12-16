@@ -1,27 +1,16 @@
-This is the pulsating LED code
----------------------------------
-const int LED = 11;
+const int LED = 11; /* Pulsating LED Code which was an option to use in the faucet */
 
 void setup()
 {
 }
 
-void loop()
+void loop() /*
 {
 	float in, out;
 
 	for (in = 0; in < 6.2832; in += .002)
 	{
-	out= sin(in) *127.5 + 127.5;
-	analogWrite(LED,out);
-	}
-}
------------------------------------
-analogwrite() takes values from (0,255) (for brightness in this case)
-
-So we manipulate the sine function to get a min of zero since itÕs -1.
-
-(255 / 2 = 127.5), and get: out = 127.5 * sin(in) + 127.5
-
-The brightness will now oscillate between 0 and 255, with a change in ÔinÕ of 0.002.
-Since led was too bright, we could change the upper bound to something lower.
+	out= sin(in) *127.5 + 127.5; /* (255 / 2 = 127.5), and get: out = 127.5 * sin(in) + 127.5 */
+	analogWrite(LED,out); /* analogwrite() takes values from (0,255) (for brightness in this case) */
+	} 
+} /* Since our led was too bright, we could change the upper bound to something lower. */
