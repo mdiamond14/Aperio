@@ -1,14 +1,12 @@
-/*Beginning- Someone goes up to the sink pours out water drinks it then clutches his chest and dies
-Turns gray- and someone says "=Do you know what's in your water? With Aperio, this wouldn't have happened */
-
+Running Tap- 
 The average human consumes four gallons of water every week. Clearly, water is vital to our health. However, we have no idea what is in the water we drink. One of the most frightening feelings we experience is uncertainty, and we wanted to get rid of that. 
 Actually filming us- 
-Hi my name is Max Diamond, and he is Yash Sharma and we are engineers at the Cooper Union. /*We've always had a passion for using our engineering skill to help others.*/ We've been following recent events and there
+Hi my name is Max Diamond, and he is Yash Sharma and we are engineers at the Cooper Union. We've been following recent events and there
 have been many alarming incidents that have happened all over the world, even close to home, that highlight the need for effective water quality monitoring. So we went ahead
 and developed a product that would do just that. 
 
 Show Aperio device- 
-We created Aperio, a water faucet with a suite of sensors that monitors the quality of your water as it flows through your faucet. Aperio uses several different measures to determine water quality, including acidity, clarity, contaminent concentration, 
+loWe created Aperio, a water faucet with a suite of sensors that monitors the quality of your water as it flows through your faucet. Aperio uses several different measures to determine water quality, including acidity, clarity, contaminent concentration, 
 and even oxidation-reduction potential. By passing this data through a well-tested algorithm, Aperio can come up with a "purity score", an easily . When your "purity score" reaches dangerous levels, Aperio can automatically alert you from the device itself, or
 through SMS, app, or email. 
 
