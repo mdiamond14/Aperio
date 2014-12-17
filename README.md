@@ -50,6 +50,8 @@ Potential Sensors
 <li>Oxidation-Reduction Potential- 				easy to implement, expensive, but can be very useful for determining water quality. We attempted to obtain
 this by contacting Atlas Scientific, but were not able to obtain it. </li>
 
+<br>
+
 <p> The deal with the Oxidation-Reduction Potential sensor really invokes the issue with obtaining the sensors. As our budget was very low, and these sensors were incredibly
 expensive, we attempted to contact companies to obtain sensors. We could not convince the companies to give us the sensors, but did as much as we could with our budget by 
 applying a turbidity sensor to our Aperio device in a inexpensive way, lining up a photoresistor with an LED. Through applying the turbidity sensor, we have proven that
