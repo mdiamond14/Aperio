@@ -6,6 +6,7 @@ https://www.facebook.com/AperioFaucet
 
 https://plus.google.com/102941707271742679735/posts
 
+![Alt text](/relative/path/to/group.png?raw=true "Optional Title")
 
 <h2><i>What is Aperio?</i></h2>
 
