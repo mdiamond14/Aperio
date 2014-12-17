@@ -1,9 +1,5 @@
 <h1><a href="www.aperiofaucet.net">Aperio, an effortless water quality monitor</a></h1>
 
-Survey- https://docs.google.com/forms/d/1bu4aKSEeHWmIrFf-Z65YH9c0vk1O8weD6l1mEfvcaDo/viewform?c=0&w=1
-
-Survey Responses- https://docs.google.com/spreadsheets/d/1pLBosk78gql883Fm7eWnhymY8N-whglf8S5V-dkugWc/edit?usp=sharing
-
 https://www.kickstarter.com/projects/545246334/844326656?token=9b80a16d
 
 https://www.facebook.com/AperioFaucet
@@ -59,6 +55,10 @@ that our beta testers truly are worried about the contaminants in their water.
 
 Due to this, we will continue to advocate for our product through the aperio website, facebook, and google plus. We will also attempt to get in touch with trade shows
 and post extensively on blogs to get our name out there.
+
+Survey- https://docs.google.com/forms/d/1bu4aKSEeHWmIrFf-Z65YH9c0vk1O8weD6l1mEfvcaDo/viewform?c=0&w=1
+
+Survey Responses- https://docs.google.com/spreadsheets/d/1pLBosk78gql883Fm7eWnhymY8N-whglf8S5V-dkugWc/edit?usp=sharing
 
 Through the utilization of Kickstarter and networking through services such as Linkedin, we will raise money to initialize our second prototype/mass production phase. 
 
