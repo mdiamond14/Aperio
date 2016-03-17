@@ -86,4 +86,4 @@ Later, the distribution phase will be planned, but as of right now getting the p
 market, so making the product as cost-efficient as possible will make it as cheap as possible. No one will purchase if it is too much hassle/expense for too little gain. 
 Choose which sensors are necessary based upon popular opinion and eliminate those that aren't to save real estate and reduce cost. 
 We need to make a device that people will actually want to buy. We would like to make our product exceptionally aesthetically pleasing, and make Aperio as effective
-as possible at monitoring water quality </p>
+as possible at monitoring water quality! </p>
